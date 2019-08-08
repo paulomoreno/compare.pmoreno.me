@@ -1,0 +1,85 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="sftp://compare.pmoreno.me" ftp_rootfolder="//home/www/pmoreno/compare.pmoreno.me" exportTarget="FTP" resolutions="1x,2x" timestamp="1430600854815">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-mestre.css" crc="4215458855" ref="index:contato:erro-404:sobre"/>
+    <file name="index.css" crc="4227288460" ref="index"/>
+    <file name="contato.css" crc="4276725283" ref="contato"/>
+    <file name="iefonts_contato.css" crc="369019818" ref="contato"/>
+    <file name="erro-404.css" crc="4127711897" ref="erro-404"/>
+    <file name="sobre.css" crc="3908954987" ref="sobre"/>
+    <file name="iefonts_sobre.css" crc="4245878271" ref="sobre"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:erro-404:sobre:contato"/>
+    <file name="museutils.js" crc="521960461" ref="index:erro-404:sobre:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:erro-404:sobre:contato"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:erro-404:sobre:contato"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="220831917" ref="contato"/>
+    <file name="form_check.php" crc="218543696" ref="contato"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contato"/>
+    <file name="form_process.php" crc="4264751530" ref="contato"/>
+    <file name="form-u494.php" crc="4207294771" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="u761-4.png" crc="270496783" ref="index"/>
+    <file name="u761-4_2x.png" crc="4012394108" ref="index"/>
+    <file name="mockuop.jpg" crc="4180837071" ref="index"/>
+    <file name="icone@2x.png" crc="362198893" ref="index"/>
+    <file name="icone@2x_2x.png" crc="3876188850" ref="index"/>
+    <file name="icone@2xverde.png" crc="4119339332" ref="index"/>
+    <file name="icone@2xverde_2x.png" crc="3876383015" ref="index"/>
+    <file name="itunesartwork@2x.jpg" crc="475511683" ref="index"/>
+    <file name="itunesartwork@2x_2x.jpg" crc="141153009" ref="index"/>
+    <file name="u158-4.png" crc="269563541" ref="index"/>
+    <file name="u158-4_2x.png" crc="128712085" ref="index"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="index"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_u162.png" crc="4229979151" ref="index"/>
+    <file name="iphone_6_vert_slvr_srgb_0914-u168-fr.png" crc="4087808053" ref="index"/>
+    <file name="iphone_6_vert_slvr_srgb_0914-u168-fr_2x.png" crc="448812872" ref="index"/>
+    <file name="mockup01-u796-fr.png" crc="3807160698" ref="index"/>
+    <file name="mockup01-u796-fr_2x.png" crc="242866201" ref="index"/>
+    <file name="emailbranco@3x.png" crc="4140669876" ref="index"/>
+    <file name="emailbranco@3x_2x.png" crc="3874026077" ref="index"/>
+    <file name="emailverde@3x.png" crc="4070777827" ref="index"/>
+    <file name="emailverde@3x_2x.png" crc="492302575" ref="index"/>
+    <file name="foto02.jpg" crc="306399523" ref="erro-404:sobre"/>
+    <file name="u291-4.png" crc="420481656" ref="erro-404"/>
+    <file name="u291-4_2x.png" crc="3898833988" ref="erro-404"/>
+    <file name="logolaunch@3x.png" crc="3995979750" ref="erro-404"/>
+    <file name="logolaunch@3x_2x.png" crc="3999976327" ref="erro-404"/>
+    <file name="u574-3.png" crc="4239584849" ref="erro-404"/>
+    <file name="u574-3_2x.png" crc="4235025067" ref="erro-404"/>
+    <file name="u399-4.png" crc="335136920" ref="sobre"/>
+    <file name="u399-4_2x.png" crc="47171916" ref="sobre"/>
+    <file name="logo-pmoreno@2x.png" crc="409936751" ref="sobre"/>
+    <file name="logo-pmoreno@2x_2x.png" crc="4097331997" ref="sobre"/>
+    <file name="u684-4.png" crc="4029683981" ref="sobre"/>
+    <file name="u684-4_2x.png" crc="232607798" ref="sobre"/>
+    <file name="u674-4.png" crc="86779388" ref="sobre"/>
+    <file name="u674-4_2x.png" crc="4495406" ref="sobre"/>
+    <file name="tabela-01@3x.png" crc="71457311" ref="sobre"/>
+    <file name="tabela-01@3x_2x.png" crc="4055475392" ref="sobre"/>
+    <file name="tabela-02@3x.png" crc="4078114666" ref="sobre"/>
+    <file name="tabela-02@3x_2x.png" crc="220732901" ref="sobre"/>
+    <file name="tabela-03@3x.png" crc="532368617" ref="sobre"/>
+    <file name="tabela-03@3x_2x.png" crc="4066876302" ref="sobre"/>
+    <file name="tabela-04@3x.png" crc="4015710514" ref="sobre"/>
+    <file name="tabela-04@3x_2x.png" crc="278352081" ref="sobre"/>
+    <file name="foto03.jpg" crc="3780170013" ref="contato"/>
+    <file name="u469-4.png" crc="110448879" ref="contato"/>
+    <file name="u469-4_2x.png" crc="154541489" ref="contato"/>
+    <file name="u495-17.png" crc="425812099" ref="contato"/>
+    <file name="u495-17-r.png" crc="438509896" ref="contato"/>
+    <file name="u495-17-m.png" crc="438509896" ref="contato"/>
+    <file name="u495-17-fs.png" crc="3779330557" ref="contato"/>
+    <file name="u495-17_2x.png" crc="182314294" ref="contato"/>
+    <file name="u495-17-r_2x.png" crc="234862907" ref="contato"/>
+    <file name="u495-17-m_2x.png" crc="234862907" ref="contato"/>
+    <file name="u495-17-fs_2x.png" crc="4076207560" ref="contato"/>
+  </folder>
+  <file name="index.html" crc="90977168" mt="1430600810912" redirect="true"/>
+  <file name="erro-404.html" crc="479527287" mt="1428533005840" redirect="true"/>
+  <file name="sobre.html" crc="332712304" mt="1429131979639" redirect="true"/>
+  <file name="contato.html" crc="296643641" mt="1429131990147" redirect="true"/>
+</manifest>

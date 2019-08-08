@@ -1,0 +1,391 @@
+.version.erro_404 /* version checker */
+{
+	color: #0000F6;
+	background-color: #07E299;
+}
+
+.html
+{
+	background: #141414 url("../images/foto02.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 600px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 20px;
+	width: 0.01px;
+}
+
+#pu227
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u227
+{
+	z-index: 10;
+	width: 156px;
+	height: 41px;
+	margin-right: -10000px;
+	margin-top: 19px;
+}
+
+#u227:hover
+{
+	width: 156px;
+	height: 41px;
+	min-height: 0px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu542
+{
+	z-index: 40;
+	width: 79px;
+	padding-bottom: 31px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	left: 606px;
+}
+
+#buttonu542:hover
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+}
+
+#u543-4
+{
+	z-index: 41;
+	width: 74px;
+	min-height: 4px;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 2px;
+}
+
+#buttonu542:hover #u543-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 4px;
+	width: 74px;
+	margin: 31px -10000px 0px 0px;
+}
+
+#buttonu228
+{
+	z-index: 11;
+	width: 79px;
+	padding-bottom: 31px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	left: 723px;
+}
+
+#buttonu542.ButtonSelected,#buttonu228:hover
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+}
+
+#u229-4
+{
+	z-index: 12;
+	width: 74px;
+	min-height: 4px;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 2px;
+}
+
+#buttonu542.ButtonSelected #u543-4,#buttonu228:hover #u229-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 4px;
+	width: 74px;
+	margin: 31px -10000px 0px 0px;
+}
+
+#buttonu230
+{
+	z-index: 16;
+	width: 79px;
+	padding-bottom: 31px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	left: 840px;
+}
+
+#buttonu228.ButtonSelected,#buttonu230:hover
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+}
+
+#buttonu230.ButtonSelected
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+}
+
+#u231-4
+{
+	z-index: 17;
+	width: 74px;
+	min-height: 4px;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 2px;
+}
+
+#buttonu228.ButtonSelected #u229-4,#buttonu230:hover #u231-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 4px;
+	width: 74px;
+	margin: 31px -10000px 0px 0px;
+}
+
+#buttonu230.ButtonSelected #u231-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 4px;
+	width: 74px;
+	margin: 31px -10000px 0px 0px;
+}
+
+#u291-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	margin-top: 80px;
+	position: relative;
+}
+
+#u292
+{
+	z-index: 6;
+	width: 920px;
+	height: 150px;
+	margin-left: 20px;
+	margin-top: 68px;
+	position: relative;
+	background: transparent url("../images/logolaunch%403x.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u292
+{
+	background-image: url("../images/logolaunch%403x_2x.png");
+}
+
+#u574-3
+{
+	z-index: 7;
+	vertical-align: top;
+	width: 920px;
+	height: 86px;
+	margin-left: 36px;
+	position: relative;
+	background: url("../images/u574-3.png") no-repeat 0px 0px;
+}
+
+.hidpi #u574-3
+{
+	background-image: url("../images/u574-3_2x.png");
+	background-size: 920px 86px;
+}
+
+#u341
+{
+	z-index: 21;
+	min-height: 57px;
+	padding-bottom: 57px;
+}
+
+#u341_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#buttonu359
+{
+	z-index: 34;
+	width: 155px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 187px;
+}
+
+#buttonu359.ButtonSelected
+{
+	width: 155px;
+	min-height: 0px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u370
+{
+	z-index: 39;
+	width: 27px;
+	height: 28px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+}
+
+#buttonu359:hover #u370
+{
+	width: 27px;
+	height: 28px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#buttonu359.ButtonSelected #u370
+{
+	width: 27px;
+	height: 28px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#u360-4
+{
+	z-index: 35;
+	width: 119px;
+	min-height: 7px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 36px;
+}
+
+#buttonu359:hover #u360-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 7px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#buttonu359.ButtonSelected #u360-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 7px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#u342-4
+{
+	z-index: 22;
+	width: 100px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 653px;
+}
+
+#u342-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	width: 100px;
+	margin: 26px -10000px 0px 0px;
+}
+
+#u343-4
+{
+	z-index: 26;
+	width: 100px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 776px;
+}
+
+#u342-4.MuseLinkActive,#u343-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	width: 100px;
+	margin: 26px -10000px 0px 0px;
+}
+
+#u344-4
+{
+	z-index: 30;
+	width: 100px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 899px;
+}
+
+#u343-4.MuseLinkActive,#u344-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	width: 100px;
+	margin: 26px -10000px 0px 0px;
+}
+
+#u344-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	width: 100px;
+	margin: 26px -10000px 0px 0px;
+}
+
+#u341-bw
+{
+	z-index: 21;
+	min-height: 57px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
